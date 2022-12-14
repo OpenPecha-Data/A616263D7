@@ -1,0 +1,21 @@
+id: A616263D7
+title: Toh_558-Destroyer_of_the_Great_Trichiliocosm-v1
+type: translation
+pechas:
+- I465BB510
+- IF2E5FA18
+source_metadata:
+  creationtool: 84000-translation-memory
+  creationtoolversion: 1.0.0.0
+  datatype: PlainText
+  segtype: phrase
+  adminlang: en
+  srclang: bo
+  o-tmf: TEI
+  creationdate: '2018-07-30T07:33:27.522Z'
+  eft-text-id: UT22084-090-002
+  xmlns-eft: http://read.84000.co/ns/1.0
+  title: Toh_558-Destroyer_of_the_Great_Trichiliocosm-v1
+alignment_to_base:
+  I465BB510/6771: 3C83
+  IF2E5FA18/0810: 3C83
